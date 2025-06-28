@@ -1,0 +1,16 @@
+{
+  "name": "lista",
+  "version": "1.0.0",
+  "description": "Proyecto creado con devMate",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["devmate", "github", "javascript"],
+  "author": "devMate User",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
